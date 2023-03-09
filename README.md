@@ -21,7 +21,7 @@ Hi There, I'm Nour!
 
 # 🚀 About me
 
-## 👨‍💻 I'm currently working on Applied University Project
+## 👨‍💻 I'm currently work on flutter project 
 
 ## 🧠 I'm currently learning Dart & Flutter
 
